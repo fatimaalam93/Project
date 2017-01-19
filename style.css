@@ -5,30 +5,21 @@ body{
 
 @font-face {
  font-family: Exo2-Regular;
- src: url("../fonts/Exo2-Regular.eot")  
+ src: url("Exo2-Regular.eot")  
 }
 @font-face {
  font-family: Exo2-Regular;
- src: url("../fonts/Exo2-Regular.ttf")  
+ src: url("Exo2-Regular.ttf")  
 }
 
 @font-face {
  font-family: Exo2-Thin;
- src: url("../fonts/Exo2-Thin.eot")  
+ src: url("Exo2-Thin.eot")  
 }
 @font-face {
  font-family: Exo2-Thin;
- src: url("../fonts/Exo2-Thin.ttf") 
+ src: url("Exo2-Thin.ttf") 
 }
-@font-face {
- font-family: Myriad-pro;
- src: url("../fonts/MyriadPro-Regular.eot")  
-}
-@font-face {
- font-family: Myriad-pro;
- src: url("../fonts/MyriadPro-Regular.ttf") 
-}
-
 
 .container{
 	margin: 0;
